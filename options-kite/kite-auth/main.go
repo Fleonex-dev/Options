@@ -5,7 +5,7 @@ import(
 	"fmt"
 	"time"
 
-	"github.com/Fleonex-dev/options-kite/kite-auth/internal/kiteauth"
+	"github.com/Fleonex-dev/Options/options-kite/kite-auth/internal/kiteauth"
 )
 
 func main() {
